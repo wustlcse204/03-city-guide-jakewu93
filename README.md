@@ -25,6 +25,8 @@ Create a `<meta>` tag with the description of your site for search engines.
 
 ### CSS
 
+**Note that CSS should only be used for Assignment 4.**
+
 1. Change some background colors on your page using one of the color formats we learned in class (name, HEX, RGB (or RGBA), HSL (or HSLA)). You can change the background of the entire page, or the background of some elements, or both!
 2. Change some text color on your page, using a different color format than you used for the background colors.
 3. Change the font of some text on your page
